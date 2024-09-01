@@ -7,11 +7,11 @@
 
 namespace Joomla\Language\Tests;
 
+use Joomla\Language\Language;
 use Joomla\Language\LanguageFactory;
 use Joomla\Language\Parser\IniParser;
 use Joomla\Language\ParserRegistry;
 use Joomla\Language\Text;
-use Joomla\Language\Language;
 use PHPUnit\Framework\TestCase;
 
 /**
